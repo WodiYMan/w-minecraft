@@ -11,8 +11,8 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
+serverName: W-Server MC
+serverDescription: Sunucu İşte :)
 serverIP: w_server.aternos.me:59823
 useBedrockForOnlineStatus: false
 
