@@ -1,9 +1,9 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://wodiyman.github.io/w-minecraft"
-baseurl: "/moonrise"
-siteIcon: 
+url: "https://wodiyman.github.io/w-minecraft/"
+baseurl: "/w-minecraft/"
+siteIcon: a
 siteYear: 2022
 siteFooterlink: /about
 showinSearchEngines: true
